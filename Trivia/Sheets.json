@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ayptech-community",
+  "private_key_id": "f8a7359442e97b65ac19577891fafa5954735c42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQaDzlo9RBUcm6\nQyBbvhe/sCKjVBnQW7CxBpfFrmDnmVXqRe2My2lLnPIujOTFu/MAxSuiuAR56Jra\nipQ/eXEVE3FscnUd33jFuD5DtPO0N/JB1JkLFoH5PUJvEyvzbSj7kMXbr+WCYC9k\nZdUvQ1vwq5jJjIu7xvm8vwQxbcfKZSK5gSNZYBwN/BfumISw1ZMEgtsuonwG5RXp\n1AzoceB6QjCkR3CQiL6X4e/Gz5ueByh2ZpOhkVJtoOIZpJQNAYW/sOuZhZy5J7d9\nZirSmxIIBslDSpjoYU7+vrgeTuLqO8Q7cRjGvSAsQ9VSQO4PPNBNoViws+adaW2q\nRVNMgOeVAgMBAAECggEABQAAjgXgiXH75AMeRfUz6VPBe6erODYq8WRWGdZgLs5H\n+GdAbBipPbjV5UtYuxcSR8TIkjkrVP1r/FhHdupj+Hx57n8kfi38CMpYfBQIUMeS\n1q98vdOxae26p/g5crf+EWMHdt4rzx/y+HaqUbL3rrjUi+laT4wA4TK4ArOT5TAo\nMMhUuNzpSsXde39UsBxE3fWs+MydUxpVRzSJfyELGtwFYHdTfujRHcBYoSIzFtw9\neByMI+oFwdJuA6eREDQQSCEyIosSpzZz/4LNk3GmeNdG59yKH8QRre74Bdpd+Qs2\nHnq8SOt8Ky0jYI/GxOVYWA2nOwswXWSz5hAAYTM4FQKBgQD7NDkmqcGoJsG4+EQo\nQ9YPzHm8+pqftY26e6kVKx6FvU36qmld5CqgJ7Ox5FnjvNy7JlRSCu1NuID5Pemj\nRCpwyjErMYPRojXrBxSsYtfseEyeHe9949NY+wse6omt5q29UyWELjnZNsdncFwZ\nHTaIw+e6+qnefQVuceRecbTNnwKBgQDUYted13W5QnzP84muFlVEAmGJsU2UZjzB\nlzo2XoiOlV6LiaCkvA46BjiZlH/Gy2dEK/pV62MAAt2du4G60lErLc9FXEAenyY+\nw7AhNjKGrqYTMISEawrgXA8bl5EicLg5UmuVvL/iZOkLpSOEIkDof1wPPiOG+TIE\n9P1LtgMWSwKBgQCt0rw9Qbgsh+0C9mALUK1+LyqKFwsJupKA2PLuH/E18AFWk7bn\nbmwEeJSCYxXEXbqLkgFE6CS+5A3y6eGSxSds9qxBTDj/xXPz1ul6Q8dP7QpvWx2O\niiiD6OsQEJEGkZnlaPSL24TSBnLC4+AGzM0gpBbkrnD+8Jnii9LPe3T11wKBgF29\nmqliNeWlAO3P8g7ScKPp4R8jELjVPy+7Dch9hQxZxTcVccAD+MuHf2fZ8WPO1y9x\nsbZGhJW2rhY2cpYAyi6is39LrklVuU2ulYizIS3s3ARQP80qacyJFWn6RebLlaRH\nSpD2lELagznOk5R4gemcfQeFR60FRByH/VxzY31tAoGBAI4KKP0vSTVtVdZ7VTaO\nD1wjsmiYk1umNp5tk1uze9MwzYGR46z+OhV6snguO8MOGyXxQ5veeipvu4tR5ubh\nKDOY65cBhF75QiIJ3BL9q5Eg5aa2H5LEwsZXTP3thGqn4f9dGjPy9J7ywO+nlQR6\nvx63E6T7H1jeiLT2X4pgP49Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing@ayptech-community.iam.gserviceaccount.com",
+  "client_id": "117936091661702032044",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing%40ayptech-community.iam.gserviceaccount.com"
+}
