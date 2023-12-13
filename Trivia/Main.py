@@ -351,4 +351,4 @@ async def rank(ctx,user:discord.Member = None):
     img.save('Config/sample-out.png')
     await ctx.send(file=discord.File('Config/sample-out.png'))
     
-bot.run('ODI1MjA5MzU5MDQ2MTQ4MTM2.YF6mGg.3BmBB87r-f5CUzLY6eh7CmcE6SE')
+bot.run('TOKEN HERE')
